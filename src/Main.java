@@ -12,6 +12,14 @@ class Calculator {
         this.operator = "";
     }
 
+    public void setFirstNumber(double a) {                                  // number setting methods
+        firstNumber = a;
+    }
+
+    public void setSecondNumber(double b) {
+        secondNumber = b;
+    }
+
     public void menu() {
         System.out.println("=========================");
         System.out.println("| Calculator version 1.0 |");
@@ -64,6 +72,8 @@ public class Main {
         double a = scanner.nextDouble();
         System.out.println("Enter second number: ");
         double b = scanner.nextDouble();
+
+
 
 
 

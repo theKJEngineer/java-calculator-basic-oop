@@ -30,3 +30,26 @@ This project was created as a learning exercise to practice basic Object-Oriente
    ```bash
    git clone https://github.com/<your-username>/java-calculator-basic-oop.git
    cd java-calculator-basic-oop
+
+
+
+
+   =========================
+| Calculator version 1.0 |
+| Beginning of Java OOP  |
+=========================
+Select the mathematical operation you want to perform.
+1) Addition
+2) Subtraction
+3) Multiplication
+4) Division
+0) Exit
+Choose option: 1
+
+Enter first number:
+5
+Enter second number:
+2
+Result: 7.0
+------------------------
+
